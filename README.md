@@ -1,3 +1,5 @@
+Live Dashboard: [View on Looker Studio] https://lookerstudio.google.com/s/lmNTUt_EZfo
+
 # Furniture-Sales-Customer-Insights
 This project showcases a one-page interactive dashboard built in Looker Studio to analyze product performance and customer experience for a furniture retail dataset. 
 
